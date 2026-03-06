@@ -1,0 +1,149 @@
+---
+title: "Curriculum Vitae"
+---
+
+# Roberta Passiatore, PhD
+
+Assistant Professional Researcher  (Research Faculty)
+University of California, Irvine  
+Email: rpassiat@uci.edu
+
+## Research Statement
+
+My research goal is to advance a personalized understanding of brain development and mental health by identifying the neural, genetic, and environmental factors that shape individual trajectories of risk and resilience.
+
+I develop mechanistic, person-centered models to understand how reward learning, emotion regulation, and neurodevelopmental processes differ across individuals. Using multimodal neuroimaging, computational psychiatry, and imaging genetics, my work aims to clarify the biological pathways linking brain function to psychopathology.
+
+Ultimately, I seek to translate these insights into improved strategies for early identification, prevention, and intervention in depression, anxiety, and related mood disorders.
+
+## Academic Appointments
+
+**Assistant Professional Researcher**  
+Noel Drury Depression Institute for Translational Depression Discoveries, University of California, Irvine  
+Supervisor: Diego A. Pizzagalli, PhD  
+2025–present
+
+**Postdoctoral Research Fellow**  
+Lieber Institute for Brain Development, Johns Hopkins Medical School, Baltimore, MD  
+Supervisor: Giulio Pergola, PhD  
+2024–2025
+
+**Postdoctoral Research Fellow**  
+Department of Translational Biomedicine and Neuroscience, University of Bari Aldo Moro, Bari, Italy  
+Supervisor: Giulio Pergola, PhD  
+2023
+
+**Visiting Postdoctoral Research Fellow**  
+Institute of Neuroscience and Medicine, Brain & Behavior (INM-7), Research Centre Jülich, Germany  
+Supervisor: Jürgen Dukart, PhD  
+2022–2023
+
+**Postdoctoral Research Fellow**  
+Department of Basic Medical Science, Neuroscience and Sense Organs, University of Bari Aldo Moro, Bari, Italy  
+Supervisor: Alessandro Bertolino, MD, PhD  
+2022
+
+**Visiting PhD Student**  
+Tri-Institutional Center for Translational Research in Neuroimaging and Data Science (TReNDS), Atlanta, GA  
+Supervisor: Vince D. Calhoun, PhD  
+2020–2021
+
+**PhD Fellow in Molecular, Pharmaceutical and Medical Sciences**  
+University of Bari Aldo Moro, Bari, Italy  
+Supervisors: Alessandro Bertolino, MD, PhD; Giulio Pergola, PhD  
+2018–2022
+
+## Education
+
+**Board Qualified Psychologist**  
+National Professional Association of Psychologists, Bari, Italy  
+2022
+
+**PhD in Applied Neuroscience**  
+University of Bari Aldo Moro, Bari, Italy  
+2018–2022
+
+**MS in Clinical Psychology**  
+University of Bari Aldo Moro, Bari, Italy  
+2016–2018  
+110/110 cum laude
+
+**BS in Psychological Sciences and Techniques**  
+University of Bari Aldo Moro, Bari, Italy  
+2013–2016
+
+## Selected Publications
+
+1. Passiatore R*, Lupo A*, et al. Interindividual variability in memory performance is related to cortico-thalamic networks during memory encoding and retrieval. *Journal of Neuroscience* (2025).
+2. Lella A, Antonucci LA, Passiatore R, et al. Thalamocortical structural covariation networks are related to familial risk for schizophrenia. *Biological Psychiatry* (2025).
+3. Fazio L*, Stolfa G*, Passiatore R, et al. Altered brain-behavior association during resting state is a potential psychosis risk marker. *Advanced Science* (2025).
+4. Sportelli L*, Eisenberg DP*, Passiatore R, et al. Dopamine signaling enriched striatal gene set predicts striatal dopamine synthesis and physiological activity in vivo. *Nature Communications* (2024).
+5. Passiatore R, Antonucci LA, DeRamus TP, et al. Changes in patterns of age-related network connectivity are associated with risk for schizophrenia. *PNAS* (2023).
+6. Passiatore R*, Antonucci LA*, et al. How recent learning shapes the brain: memory-dependent functional reconfiguration of brain circuits. *NeuroImage* (2021).
+
+## Awards
+**Alies Muskin Career Development Leadership (CDLP) Award**, Anxiety and Depression Association of America (ADAA)
+2026
+
+**Seal of Excellence**, Score 95.8%, Horizon Europe Marie Skłodowska-Curie Actions  
+2025
+
+**Seal of Excellence**, Score 89.2%, Horizon Europe Marie Skłodowska-Curie Actions  
+2024
+
+**Travel Award, GIDRM ‘Stefano Caldarelli’ Grant for Young Researchers**, Italian Group for Discussion on Magnetic Resonance (GIDRM)
+
+## Funding 
+
+**Young Researcher Grant**, Italian Ministry of Education  
+2024  
+PI: Roberta Passiatore  
+EUR 250,000  
+Awarded but not activated due to relocation
+
+**UNIBA ERC Seeds Grant**  
+2023  
+PI: Roberta Passiatore  
+EUR 10,000
+
+**Helmholtz Visiting Researcher Grant (HIDA)**  
+2021  
+PI: Roberta Passiatore  
+EUR 10,000
+
+## Professional Service
+
+**Scientific Committees**
+- Flux Conference Scientific Program Committee (2026)
+- OHBM Annual Meeting Abstract Reviewer Committee (2021, 2022, 2023)
+
+**Ad Hoc Reviewer**
+- Human Brain Mapping
+- Psychiatry Research
+- Nature Communications
+- Advanced Science
+- Communications Biology
+- BMC Medicine
+- BMC Psychiatry
+- npj Schizophrenia
+- Molecular Psychiatry
+- Frontiers in Neuroscience
+- Frontiers in Psychiatry
+
+## Technical Skills
+
+**Programming and Data Analysis**  
+R, Python, MATLAB, Linux
+
+**Neuroimaging Software**  
+SPM12, FSL, ANTs, AFNI, Nilearn, CAT12, Group ICA
+
+**High-Performance Computing**  
+SLURM, HTCondor, HPC environments, GPU parallel computing
+
+## Languages
+
+- Italian (native)
+- English (C2)
+- French (B1)
+- German (A1)
